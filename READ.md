@@ -2,7 +2,7 @@
 
 ## author
 
-Stefanie Söhnitz
+Stefanie
 
 ## date
 
